@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    margin: 0;
+    background: #222;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 120%;
+}
